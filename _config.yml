@@ -11,6 +11,7 @@ github_username:  charlesdardaman
 theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
+  - jekyll-include-cache
   - jekyll-remote-theme
 
 
